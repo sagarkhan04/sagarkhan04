@@ -1,5 +1,5 @@
 <em>
-<h1 align="center">Hi There 👋, I'm Sagar Khan</h1>
+<h1 align="center">Hi There 👋, I'm SAGAR KHAN</h1>
 <h3 align="center">A Front-End Developer | Quality Assurance (QA) from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/sagarkhan04/adoc_yml_file/main/sagarkhan04.png">
 <!-- <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
